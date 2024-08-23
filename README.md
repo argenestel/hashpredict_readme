@@ -159,4 +159,4 @@ These projects, along with HashPredict, demonstrate the diverse applications bei
 
 ### For Aptos Team
 
-Aptos Team Member can Create Issues 
+Aptos Team Member can Create Issues to access to codebase repo
